@@ -1,0 +1,14 @@
+# Node.js
+client/node_modules
+client/build
+
+# React env
+client/.env
+
+# .NET build artifacts
+server/bin
+server/obj
+
+# User-specific files
+.vscode
+*.user
